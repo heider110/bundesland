@@ -11,7 +11,7 @@ $(".sachsen").on("click",function(){
    var salam = new Audio("sounds/sachsen.mp3");
    salam.play();
 
-   $("#sachsen").text("Sachsen")
+   $("#sachsen").text("")
    .show()
    .delay(3000)
    .fadeOut();

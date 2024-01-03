@@ -22,6 +22,7 @@ footer {
   color: #fff;
   padding: 10px;
   text-align: center;
+  font-family: sans-serif;
 }
 
 
@@ -41,12 +42,8 @@ color: #fff;
 }
 
 
-footer {
-  color: #DBEDF3;
-  font-family: sans-serif;
-}
-
 .name {
+  color: #DBEDF3;
   
   position:absolute;
 bottom: 200px;
